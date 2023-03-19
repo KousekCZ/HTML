@@ -1,1 +1,9 @@
+* {
+  background-color: black;
+}
 
+.text {
+  color: white;
+  font-size: xxx-large;
+  text-align: center;
+}
